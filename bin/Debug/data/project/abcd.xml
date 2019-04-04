@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <klasy>
+        <klasa nazwa_klasy="1a" ilosc_godzin="0" ilosc_przedmiotow="0" />
+        <klasa nazwa_klasy="2a" ilosc_godzin="5" ilosc_przedmiotow="1" />
+        <klasa nazwa_klasy="3a" ilosc_godzin="5" ilosc_przedmiotow="1" />
+    </klasy>
+    <przedmioty>
+        <przedmiot nazwa_klasy="2a" nazwa_przedmiotu="matematyka" nazwa_nauczyciela="X Y" id_nauczyciela="0" ilosc_godzin="5" max_dziennie="2" trudnosc="False" />
+    </przedmioty>
+    <nauczyciele>
+        <nauczyciel id_nauczyciela="0" nazwa_nauczyciela="X Y" nazwa_przedmiotu="matematyka" />
+    </nauczyciele>
+    <sale>
+        <sala nr_sali="41" nazwa_przedmiotu="matematyka" />
+    </sale>
+</root>

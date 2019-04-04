@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <klasy>
+        <klasa nazwa_klasy="dsa" ilosc_godzin="2" ilosc_przedmiotow="1" />
+    </klasy>
+    <przedmioty>
+        <przedmiot nazwa_klasy="dsa" nazwa_przedmiotu="asd" nazwa_nauczyciela="asd" id_nauczyciela="0" ilosc_godzin="2" max_dziennie="2" trudnosc="False" />
+    </przedmioty>
+    <nauczyciele>
+        <nauczyciel id_nauczyciela="0" nazwa_nauczyciela="asd" nazwa_przedmiotu="asd" />
+    </nauczyciele>
+    <sale>
+        <sala nr_sali="2" nazwa_przedmiotu="asd" />
+    </sale>
+    <lekcje>
+        <lekcja czas="7:20-8:05" />
+    </lekcje>
+</root>

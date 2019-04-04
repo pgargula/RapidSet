@@ -1,0 +1,11 @@
+C:\backup 2013.11.22\rapidset\bin\Release\rapidset.exe
+C:\backup 2013.11.22\rapidset\bin\Release\rapidset.pdb
+C:\backup 2013.11.22\rapidset\obj\x86\Release\rapidset.Form1.resources
+C:\backup 2013.11.22\rapidset\obj\x86\Release\rapidset.wczytaniePlanuForm.resources
+C:\backup 2013.11.22\rapidset\obj\x86\Release\rapidset.Properties.Resources.resources
+C:\backup 2013.11.22\rapidset\obj\x86\Release\rapidset.exe
+C:\backup 2013.11.22\rapidset\obj\x86\Release\rapidset.pdb
+C:\backup 2013.11.22\rapidset\obj\x86\Release\rapidset.dodaniePrzedmiotuKlasie.resources
+C:\backup 2013.11.22\rapidset\obj\x86\Release\rapidset.stworzPlan.resources
+C:\backup 2013.11.22\rapidset\obj\x86\Release\rapidset.utworzenieBazy.resources
+C:\backup 2013.11.22\rapidset\obj\x86\Release\rapidset.csproj.GenerateResource.Cache

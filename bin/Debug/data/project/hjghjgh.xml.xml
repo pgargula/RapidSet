@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <klasy>
+        <klasa nazwa_klasy="fhdhd" ilosc_godzin="6" ilosc_przedmiotow="3" />
+        <klasa nazwa_klasy="jhhgj" ilosc_godzin="12" ilosc_przedmiotow="3" />
+        <klasa nazwa_klasy="hgjhhh" ilosc_godzin="11" ilosc_przedmiotow="2" />
+    </klasy>
+    <przedmioty>
+        <przedmiot nazwa_klasy="jhhgj" nazwa_przedmiotu="hgfhggg" nazwa_nauczyciela="ere rwerwerw" id_nauczyciela="0" ilosc_godzin="3" max_dziennie="2" trudnosc="False" />
+        <przedmiot nazwa_klasy="fhdhd" nazwa_przedmiotu="gggg" nazwa_nauczyciela="rewrwer ewrwerwe" id_nauczyciela="1" ilosc_godzin="2" max_dziennie="2" trudnosc="False" />
+        <przedmiot nazwa_klasy="hgjhhh" nazwa_przedmiotu="gggg" nazwa_nauczyciela="rewrwer ewrwerwe" id_nauczyciela="1" ilosc_godzin="5" max_dziennie="2" trudnosc="False" />
+        <przedmiot nazwa_klasy="jhhgj" nazwa_przedmiotu="ddde" nazwa_nauczyciela="rewrwer ewrwerwe" id_nauczyciela="1" ilosc_godzin="4" max_dziennie="2" trudnosc="False" />
+        <przedmiot nazwa_klasy="fhdhd" nazwa_przedmiotu="ddde" nazwa_nauczyciela="eee eeee" id_nauczyciela="2" ilosc_godzin="2" max_dziennie="2" trudnosc="False" />
+        <przedmiot nazwa_klasy="fhdhd" nazwa_przedmiotu="eee" nazwa_nauczyciela="eee eeee" id_nauczyciela="2" ilosc_godzin="2" max_dziennie="2" trudnosc="False" />
+    </przedmioty>
+    <nauczyciele>
+        <nauczyciel id_nauczyciela="0" nazwa_nauczyciela="ere rwerwerw" nazwa_przedmiotu="ddde" />
+        <nauczyciel id_nauczyciela="1" nazwa_nauczyciela="rewrwer ewrwerwe" nazwa_przedmiotu="eee" />
+        <nauczyciel id_nauczyciela="2" nazwa_nauczyciela="eee eeee" nazwa_przedmiotu="gggg" />
+    </nauczyciele>
+    <sale>
+        <sala nr_sali="erwerw" nazwa_przedmiotu="hgfhggg" />
+        <sala nr_sali="erwerw" nazwa_przedmiotu="gggg" />
+        <sala nr_sali="erwerw" nazwa_przedmiotu="ddde" />
+        <sala nr_sali="erwerw" nazwa_przedmiotu="eee" />
+        <sala nr_sali="erwerwerwr" nazwa_przedmiotu="hgfhggg" />
+        <sala nr_sali="erwerwerwr" nazwa_przedmiotu="gggg" />
+        <sala nr_sali="erwerwerwr" nazwa_przedmiotu="ddde" />
+        <sala nr_sali="erwerwerwr" nazwa_przedmiotu="eee" />
+    </sale>
+    <lekcje>
+        <lekcja czas="45" />
+        <lekcja czas="45" />
+        <lekcja czas="45" />
+    </lekcje>
+</root>

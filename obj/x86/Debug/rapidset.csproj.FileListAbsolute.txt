@@ -1,0 +1,41 @@
+C:\Users\Krzysiek\AppData\Local\Temporary Projects\rapidset\bin\Debug\rapidset.exe
+C:\Users\Krzysiek\AppData\Local\Temporary Projects\rapidset\bin\Debug\rapidset.pdb
+C:\Users\Krzysiek\AppData\Local\Temporary Projects\rapidset\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Krzysiek\AppData\Local\Temporary Projects\rapidset\obj\x86\Debug\rapidset.Form1.resources
+C:\Users\Krzysiek\AppData\Local\Temporary Projects\rapidset\obj\x86\Debug\rapidset.Properties.Resources.resources
+C:\Users\Krzysiek\AppData\Local\Temporary Projects\rapidset\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Krzysiek\AppData\Local\Temporary Projects\rapidset\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Krzysiek\AppData\Local\Temporary Projects\rapidset\obj\x86\Debug\rapidset.exe
+C:\Users\Krzysiek\AppData\Local\Temporary Projects\rapidset\obj\x86\Debug\rapidset.pdb
+D:\Rapidset\rapidset\rapidset\obj\x86\Debug\rapidset.exe
+D:\Rapidset\rapidset\rapidset\obj\x86\Debug\rapidset.pdb
+D:\Rapidset\rapidset\rapidset\bin\Debug\rapidset.exe
+D:\Rapidset\rapidset\rapidset\bin\Debug\rapidset.pdb
+D:\Rapidset\rapidset\rapidset\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Rapidset\rapidset\rapidset\obj\x86\Debug\rapidset.Form1.resources
+D:\Rapidset\rapidset\rapidset\obj\x86\Debug\rapidset.Properties.Resources.resources
+D:\Rapidset\rapidset\rapidset\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Rapidset\rapidset\rapidset\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Rapidset\backup 2013.11.22\rapidset\obj\x86\Debug\rapidset.exe
+D:\Rapidset\backup 2013.11.22\rapidset\obj\x86\Debug\rapidset.pdb
+D:\Rapidset\backup 2013.11.22\rapidset\bin\Debug\rapidset.exe
+D:\Rapidset\backup 2013.11.22\rapidset\bin\Debug\rapidset.pdb
+D:\Rapidset\backup 2013.11.22\rapidset\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Rapidset\backup 2013.11.22\rapidset\obj\x86\Debug\rapidset.Form1.resources
+D:\Rapidset\backup 2013.11.22\rapidset\obj\x86\Debug\rapidset.Properties.Resources.resources
+D:\Rapidset\backup 2013.11.22\rapidset\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Rapidset\backup 2013.11.22\rapidset\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Rapidset\backup 2013.11.22\rapidset\obj\x86\Debug\rapidset.Form2.resources
+C:\backup 2013.11.22\rapidset\obj\x86\Debug\rapidset.exe
+C:\backup 2013.11.22\rapidset\obj\x86\Debug\rapidset.pdb
+C:\backup 2013.11.22\rapidset\bin\Debug\rapidset.exe
+C:\backup 2013.11.22\rapidset\bin\Debug\rapidset.pdb
+C:\backup 2013.11.22\rapidset\obj\x86\Debug\rapidset.Form1.resources
+C:\backup 2013.11.22\rapidset\obj\x86\Debug\rapidset.Properties.Resources.resources
+C:\backup 2013.11.22\rapidset\obj\x86\Debug\rapidset.wczytaniePlanuForm.resources
+C:\backup 2013.11.22\rapidset\obj\x86\Debug\rapidset.stworzPlan.resources
+C:\backup 2013.11.22\rapidset\obj\x86\Debug\rapidset.dodaniePrzedmiotuKlasie.resources
+C:\backup 2013.11.22\rapidset\obj\x86\Debug\rapidset.utworzenieBazy.resources
+C:\backup 2013.11.22\rapidset\obj\x86\Debug\rapidset.csprojResolveAssemblyReference.cache
+C:\backup 2013.11.22\rapidset\obj\x86\Debug\rapidset.csproj.GenerateResource.Cache
+C:\backup 2013.11.22\rapidset\obj\x86\Debug\rapidset.exportHTML.resources

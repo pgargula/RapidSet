@@ -1,0 +1,73 @@
+﻿.menu{
+width: 20%;
+height: 100%;
+background-color: #000000;
+float: left;
+
+}
+
+.plan{ 
+background-color: #191919;
+width: 80%;
+height: 100%;
+float: right;
+}
+
+h4{
+margin: 35px 0px 0px 35px;
+font-family: Segoe UI;
+color: White;
+line-height: 2;
+}
+
+h2{
+margin: 50px;
+font-family: Segoe UI;
+color: White;
+}
+
+
+.tytul{
+height: 50px;
+width: 120px;
+border: 5px solid transparent;
+font-family: Segoe UI;
+background-color: #000000;
+color: white;
+float: left;
+margin: 2px;
+text-align: center;
+line-height: 50px;
+vertical-align: middle;
+}
+
+.tresc{
+height: 50px;
+width: 120px;
+border: 5px solid transparent;
+font-family: Segoe UI;
+background-color: #40403f;
+color: white;
+float: left;
+margin: 2px;
+text-align: center;
+line-height: 50px;
+vertical-align: middle;
+}
+
+.tresc2{
+height: 50px;
+width: 120px;
+border: 5px solid transparent;
+font-family: Segoe UI;
+background-color: #656463;
+color: white;
+float: left;
+margin: 2px;
+text-align: center;
+line-height: 50px;
+vertical-align: middle;
+}
+
+.rama{width: 900px;}
+

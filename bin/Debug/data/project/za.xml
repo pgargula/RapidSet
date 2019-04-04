@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <klasy>
+        <klasa nazwa_klasy="1a" ilosc_godzin="3" ilosc_przedmiotow="1" />
+    </klasy>
+    <przedmioty>
+        <przedmiot nazwa_klasy="1a" nazwa_przedmiotu="matematyka" nazwa_nauczyciela="Barbara Wideł" id_nauczyciela="0" ilosc_godzin="3" max_dziennie="2" trudnosc="False" />
+    </przedmioty>
+    <nauczyciele>
+        <nauczyciel id_nauczyciela="0" nazwa_nauczyciela="Barbara Wideł" nazwa_przedmiotu="matematyka" />
+    </nauczyciele>
+    <sale>
+        <sala nr_sali="42" nazwa_przedmiotu="matematyka" />
+    </sale>
+</root>
